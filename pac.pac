@@ -51,6 +51,8 @@ var domains = {
   "amoiist.com": 1, 
   "uderzo.it": 1, 
   "feedly.com":1,
+  "intercom.io":1,
+  "reutersmedia.net":1,
   "zillionk.com": 1, 
   "placemix.com": 1, 
   "jiruan.net": 1, 
