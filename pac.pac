@@ -387,6 +387,8 @@ var domains = {
   "pdetails.com": 1, 
   "natado.com": 1, 
   "fbsbx.com": 1, 
+  "chartbeat.net":1,
+  "truste.com":1,
   "redchinacn.org": 1, 
   "cl.ly": 1, 
   "fourthinternational.org": 1, 
