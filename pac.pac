@@ -1651,6 +1651,7 @@ var domains = {
   "nytimg.com": 1, 
   "tibetcharity.in": 1, 
   "instagram.com": 1, 
+  "akamai.net":1,
   "mitbbs.com": 1, 
   "trendsmap.com": 1, 
   "upholdjustice.org": 1, 

@@ -1,2 +1,4 @@
 # pac-gfwlist
-PAC list for shadowsocks
+A still maintained PAC list for shadowsocks and SwitchyProxy
+
+
