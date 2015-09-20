@@ -3018,6 +3018,8 @@ var domains = {
   "glennhilton.com": 1, 
   "christianstudy.com": 1, 
   "freenetproject.org": 1, 
+  "superuser.com":1,
+  "stackexchange.com":1,
   "ebookbrowse.com": 1, 
   "gaoming.net": 1, 
   "madmenunbuttoned.com": 1, 
