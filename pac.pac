@@ -21,6 +21,7 @@ var domains = {
   "doubleclick.net":1,
   "kzeng.info": 1, 
   "android.com":1,
+  "quora.com":1,
   "javfee.com":1,
   "cloudshare.net":1,
   "hihistory.net": 1, 
