@@ -20,6 +20,7 @@ var rules = [
   "||feedly.com",
   "||fxnetworks.com",
   "||getuploader.com",
+  ".microsoft.com",
   "hulu.com",
   "huluim.com",
   "||hybrid-analysis.com",
