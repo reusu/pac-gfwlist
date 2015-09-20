@@ -3012,6 +3012,8 @@ var domains = {
   "wozy.in": 1, 
   "initiativesforchina.org": 1, 
   "myopenid.com": 1, 
+  "sony.com":1,
+  "ebay.com":1,
   "hkdailynews.com.hk": 1, 
   "glennhilton.com": 1, 
   "christianstudy.com": 1, 
