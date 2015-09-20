@@ -23,6 +23,7 @@ var rules = [
   ".microsoft.com",
   "hulu.com",
   "huluim.com",
+  ".quoracdn.net",
   "||hybrid-analysis.com",
   "|http://www.ilovelongtoes.com/",
   "histats.com",
