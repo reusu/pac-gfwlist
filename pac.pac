@@ -405,6 +405,7 @@ var domains = {
   "weiming.info": 1, 
   "tweetboner.biz": 1, 
   "vimperator.org": 1, 
+  "pao-pao.net":1,
   "dipity.com": 1, 
   "wordsandturds.com": 1, 
   "666kb.com": 1, 
