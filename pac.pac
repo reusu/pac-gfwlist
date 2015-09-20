@@ -1677,6 +1677,8 @@ var domains = {
   "aiweiweiblog.com": 1, 
   "123rf.com": 1, 
   "macrovpn.com": 1, 
+  "codota.com":1,
+  "imgur.com":1,
   "badoo.com": 1, 
   "memrijttm.org": 1, 
   "mycould.com": 1, 
