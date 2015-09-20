@@ -33,6 +33,7 @@ var domains = {
   "nyt.com": 1, 
   "usma.edu": 1, 
   "norbulingka.org": 1, 
+  "abclite.org":1,
   "uberproxy.net": 1, 
   "stepmania.com": 1, 
   "kmt.org.tw": 1, 
