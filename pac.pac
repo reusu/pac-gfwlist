@@ -378,7 +378,7 @@ var domains = {
   "box.com": 1, 
   "rileyguide.com": 1, 
   "908taiwan.org": 1, 
-  "assetscdn.github.com":1,
+  "assets-cdn.github.com":1,
   "bwbx.io":1,
   "assets.bwbx.io":1,
   "lerosua.org": 1, 
