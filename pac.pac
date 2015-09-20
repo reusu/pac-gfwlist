@@ -373,6 +373,7 @@ var domains = {
   "sex8.cc": 1, 
   "thedw.us": 1, 
   "markmail.org": 1, 
+  "getpocket.com":1,
   "radioaustralia.net.au": 1, 
   "box.com": 1, 
   "rileyguide.com": 1, 
