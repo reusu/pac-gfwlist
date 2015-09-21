@@ -63,6 +63,7 @@ var domains = {
   "intercom.io":1,
   "reutersmedia.net":1,
   "zillionk.com": 1, 
+  "wikileaks.com":1,
   "placemix.com": 1, 
   "jiruan.net": 1, 
   "androidcommunity.com":1,
