@@ -14,7 +14,6 @@ var domains = {
   "passion.com": 1, 
   "joachims.org": 1, 
   "maiio.net": 1, 
-  "idv.tw": 1, 
   "dreamhost.com":1,
   "mail-archive.com": 1, 
   "surfeasy.com.au": 1, 
