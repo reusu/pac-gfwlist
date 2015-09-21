@@ -28,6 +28,7 @@ var domains = {
   "javfee.com":1,
   "cloudshare.net":1,
   "hihistory.net": 1, 
+  "sstatic.net":1,
   "directcreative.com": 1, 
   "blogcity.me": 1, 
   "alexlur.org": 1, 
