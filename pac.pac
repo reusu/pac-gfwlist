@@ -1970,6 +1970,7 @@ var domains = {
   "pao-pao.net": 1, 
   "turbobit.net": 1, 
   "gvlib.com": 1, 
+  "askubuntu.com":1,
   "liujianshu.com": 1, 
   "daylife.com": 1, 
   "tuitui.info": 1, 
