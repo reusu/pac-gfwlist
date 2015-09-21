@@ -19,6 +19,7 @@ var domains = {
   "surfeasy.com.au": 1, 
   "quoracdn.net":1,
   "doubleclick.net":1,
+  "cloudflare.com":1,
   "kzeng.info": 1, 
   "android.com":1,
   "quora.com":1,
