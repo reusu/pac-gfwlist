@@ -40,6 +40,8 @@ var domains = {
   "uberproxy.net": 1, 
   "stepmania.com": 1, 
   "kmt.org.tw": 1, 
+  "bbc.com":1,
+  "vox.com":1,
   "cmule.com": 1, 
   "getgom.com": 1, 
   "givemesomethingtoread.com": 1, 
