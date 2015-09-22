@@ -3094,7 +3094,8 @@ var domains = {
   "1-apple.com.tw": 1,
   "google.com.jp":1,
   "google.com.uk":1,
-  "google.co.uk":1
+  "google.co.uk":1,
+  "newrelic.com":1
 };
 
 var direct = 'DIRECT;';
