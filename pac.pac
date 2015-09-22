@@ -3136,6 +3136,11 @@ var domains = {
   "facebook.net":1,
   "brightcove.com":1,
   "cmdolb.com":1,
+  "openshift.com":1,
+  "openstack.org":1,
+  "cdn.sstatic.net":1,
+  "bizographics.com":1,
+  "googleleadservices.com":1,
   "tomshardware.com":1
 };
 
