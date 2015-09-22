@@ -3132,6 +3132,7 @@ var domains = {
   "bluekai.com":1,
   "edgecastdns.net":1,
   "leasewebcdn.com":1,
+  "facebook.net":1,
   "tomshardware.com":1
 };
 
