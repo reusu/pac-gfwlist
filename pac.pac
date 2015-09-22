@@ -3131,6 +3131,7 @@ var domains = {
   "usabilla.com":1,
   "bluekai.com":1,
   "edgecastdns.net":1,
+  "leasewebcdn.com":1,
   "tomshardware.com":1
 };
 
