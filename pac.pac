@@ -3141,6 +3141,15 @@ var domains = {
   "cdn.sstatic.net":1,
   "bizographics.com":1,
   "googleleadservices.com":1,
+  "dowjoneson.com":1,
+  "zqtk.net":1,
+  "imrworldwide.com":1,
+  "cxense.com":1,
+  "artrix.com":1,
+  "media.net":1,
+  "pimg.tw":1,
+  "pixplug.in":1,
+  "pixanalytics.com":1,
   "tomshardware.com":1
 };
 
