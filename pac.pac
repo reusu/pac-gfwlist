@@ -3120,7 +3120,7 @@ var domains = {
   "softpedia.com":1,
   "economist.com":1,
   "ebaystatic.com":1,
-  "ebay":1,
+  "ebay.com":1,
   "mxptint.net":1,
   "abmr.net":1,
   "cedexis.com":1,
