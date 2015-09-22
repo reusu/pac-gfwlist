@@ -3121,6 +3121,8 @@ var domains = {
   "economist.com":1,
   "ebaystatic.com":1,
   "ebay":1,
+  "mxptint.net":1,
+  "abmr.net":1,
   "tomshardware.com":1
 };
 
