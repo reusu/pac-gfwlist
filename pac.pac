@@ -3084,12 +3084,17 @@ var domains = {
   "icu-project.org": 1, 
   "dribbble.com": 1, 
   "njactb.org": 1, 
+  "newrelic.com":1,
+  "edx.org":1,
   "openwebster.com": 1, 
   "darpa.mil": 1, 
   "packagecontrol.io":1,
   "91porn.com": 1, 
   "wtfpeople.com": 1, 
-  "1-apple.com.tw": 1
+  "1-apple.com.tw": 1,
+  "google.com.jp":1,
+  "google.com.uk":1,
+  "google.co.uk":1
 };
 
 var direct = 'DIRECT;';
