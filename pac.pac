@@ -3119,6 +3119,8 @@ var domains = {
   "maxcdn.com":1, 
   "softpedia.com":1,
   "economist.com":1,
+  "ebaystatic.com":1,
+  "ebay":1,
   "tomshardware.com":1
 };
 
