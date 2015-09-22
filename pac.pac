@@ -3101,6 +3101,8 @@ var domains = {
   "sharethis.com":1,
   "bestofmicro.com":1,
   "bestofmedia.com":1,
+  "images-amazon.com":1,
+  "ssl-images-amazon.com":1,
   "tomshardware.com":1
 };
 
