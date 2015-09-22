@@ -3127,6 +3127,10 @@ var domains = {
   "mbww.com":1,
   "ib-ibi.com":1,
   "semasio.net":1,
+  "po.st":1,
+  "usabilla.com":1,
+  "bluekai.com":1,
+  "edgecastdns.net":1,
   "tomshardware.com":1
 };
 
