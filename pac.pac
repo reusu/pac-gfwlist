@@ -3130,9 +3130,12 @@ var domains = {
   "po.st":1,
   "usabilla.com":1,
   "bluekai.com":1,
+  "quantserve.com":1,
   "edgecastdns.net":1,
   "leasewebcdn.com":1,
   "facebook.net":1,
+  "brightcove.com":1,
+  "cmdolb.com":1,
   "tomshardware.com":1
 };
 
