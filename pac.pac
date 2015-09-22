@@ -3103,6 +3103,20 @@ var domains = {
   "bestofmedia.com":1,
   "images-amazon.com":1,
   "ssl-images-amazon.com":1,
+  "washingtonpost.com":1,
+  "huffpost.com":1,
+  "aolcdn.com":1,
+  "grvcdn.com":1,
+  "buzzfeed.com":1,
+  "alexa.com":1,
+  "blogspot.com":1,
+  "qz.com":1,
+  "parsely.com":1,
+  "medium.com":1,
+  "mashable.com":1,
+  "cdn77.com":1,
+  "limelight.com":1,
+  "maxcdn.com":1, 
   "tomshardware.com":1
 };
 
