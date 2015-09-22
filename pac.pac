@@ -3118,6 +3118,7 @@ var domains = {
   "limelight.com":1,
   "maxcdn.com":1, 
   "softpedia.com":1,
+  "economist.com":1,
   "tomshardware.com":1
 };
 
