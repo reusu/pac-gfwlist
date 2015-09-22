@@ -3123,7 +3123,7 @@ var domains = {
   "ebay":1,
   "mxptint.net":1,
   "abmr.net":1,
-  "cedexis.com"1,
+  "cedexis.com":1,
   "mbww.com":1,
   "ib-ibi.com":1,
   "semasio.net":1,
