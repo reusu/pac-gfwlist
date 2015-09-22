@@ -3117,6 +3117,7 @@ var domains = {
   "cdn77.com":1,
   "limelight.com":1,
   "maxcdn.com":1, 
+  "softpedia.com":1,
   "tomshardware.com":1
 };
 
