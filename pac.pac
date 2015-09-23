@@ -3157,6 +3157,14 @@ var domains = {
   "blogspot.sg":1,
   "blogspot.jp":1,
   "gr-assets.com":1,
+  "voxmedia.com":1,
+  "skimresources.com":1,
+  "ixiaa.com":1,
+  "androidexample.com":1,
+  "reddit.com":1,
+  "redditstatic.com":1,
+  "redditmedia.com":1,
+  "ted.com":1,
   "tomshardware.com":1
 };
 
