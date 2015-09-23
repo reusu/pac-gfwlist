@@ -3150,6 +3150,10 @@ var domains = {
   "pimg.tw":1,
   "pixplug.in":1,
   "pixanalytics.com":1,
+  "ft-static.com":1,
+  "livefyre.com":1,
+  "ft.com":1,
+  "rpxnow.com":1,
   "tomshardware.com":1
 };
 
