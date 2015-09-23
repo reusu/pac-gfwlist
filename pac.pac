@@ -3154,6 +3154,9 @@ var domains = {
   "livefyre.com":1,
   "ft.com":1,
   "rpxnow.com":1,
+  "blogspot.sg":1,
+  "blogspot.jp":1,
+  "gr-assets.com":1,
   "tomshardware.com":1
 };
 
