@@ -3165,6 +3165,7 @@ var domains = {
   "redditstatic.com":1,
   "redditmedia.com":1,
   "ted.com":1,
+  "disqus.com":1,
   "tomshardware.com":1
 };
 
