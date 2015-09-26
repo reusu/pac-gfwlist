@@ -3170,8 +3170,9 @@ var domains = {
   "dropboxstatic.com":1,
   "mailchimp.com":1,
   "turner.com":1,
+  "segment.io":1,
+  "s3.amazonaws.com":1,
   "intercomcdn.com":1,
-
   "tomshardware.com":1
 };
 
