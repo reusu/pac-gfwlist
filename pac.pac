@@ -3173,6 +3173,7 @@ var domains = {
   "segment.io":1,
   "s3.amazonaws.com":1,
   "intercomcdn.com":1,
+  "python.org":1,
   "tomshardware.com":1
 };
 
