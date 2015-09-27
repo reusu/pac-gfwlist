@@ -3174,6 +3174,10 @@ var domains = {
   "s3.amazonaws.com":1,
   "intercomcdn.com":1,
   "python.org":1,
+  "rlcdn.com":1,
+  "flx1.com":1,
+  "exelator.com":1,
+  "disquscdn.com":1,
   "tomshardware.com":1
 };
 
