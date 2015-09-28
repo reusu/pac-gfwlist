@@ -3179,6 +3179,7 @@ var domains = {
   "exelator.com":1,
   "disquscdn.com":1,
   "tutsplus.com":1,
+  "iconarchive.com":1,
   "tomshardware.com":1
 };
 
