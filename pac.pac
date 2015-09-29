@@ -3181,6 +3181,8 @@ var domains = {
   "tutsplus.com":1,
   "iconarchive.com":1,
   "4cdn.org":1,
+  "taboola.com":1,
+  "gstatic.com":1,
   "tomshardware.com":1
 };
 
