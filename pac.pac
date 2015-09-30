@@ -3183,6 +3183,7 @@ var domains = {
   "4cdn.org":1,
   "taboola.com":1,
   "gstatic.com":1,
+  "rosettacode.org":1,
   "tomshardware.com":1
 };
 
