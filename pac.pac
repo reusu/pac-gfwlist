@@ -3184,7 +3184,7 @@ var domains = {
   "taboola.com":1,
   "gstatic.com":1,
   "rosettacode.org":1,
-  "nytlog.com:1",
+  "nytlog.com":1,
   "tomshardware.com":1
 };
 
