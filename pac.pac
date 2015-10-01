@@ -3185,6 +3185,7 @@ var domains = {
   "gstatic.com":1,
   "rosettacode.org":1,
   "nytlog.com":1,
+  "tiqcdn.com":1,
   "tomshardware.com":1
 };
 
