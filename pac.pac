@@ -3186,6 +3186,7 @@ var domains = {
   "rosettacode.org":1,
   "nytlog.com":1,
   "tiqcdn.com":1,
+  "mathjax.org":1,
   "tomshardware.com":1
 };
 
