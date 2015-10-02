@@ -3187,6 +3187,9 @@ var domains = {
   "nytlog.com":1,
   "tiqcdn.com":1,
   "mathjax.org":1,
+  "blogsmithmedia.com":1,
+  "blogsmithcdn.com":1,
+  "5min.com":1,
   "tomshardware.com":1
 };
 
