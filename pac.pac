@@ -3190,6 +3190,8 @@ var domains = {
   "blogsmithmedia.com":1,
   "blogsmithcdn.com":1,
   "5min.com":1,
+  "artirix.com":1,
+  "theinitium.com":1,
   "tomshardware.com":1
 };
 
