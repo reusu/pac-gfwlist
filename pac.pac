@@ -3192,6 +3192,8 @@ var domains = {
   "5min.com":1,
   "artirix.com":1,
   "theinitium.com":1,
+  "imageshimage.com":1,
+  "wsj.net":1,
   "tomshardware.com":1
 };
 
