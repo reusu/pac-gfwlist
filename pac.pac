@@ -3196,6 +3196,8 @@ var domains = {
   "wsj.net":1,
   "visualgo.net":1,
   "gyft.com":1,
+  "pingdom.net":1,
+  "googleapis.com":1,
   "tomshardware.com":1
 };
 
