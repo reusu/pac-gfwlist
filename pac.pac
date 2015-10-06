@@ -3194,7 +3194,8 @@ var domains = {
   "theinitium.com":1,
   "imageshimage.com":1,
   "wsj.net":1,
-  "http://visualgo.net/":1,
+  "visualgo.net":1,
+  "gyft.com":1,
   "tomshardware.com":1
 };
 
