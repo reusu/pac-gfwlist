@@ -3198,6 +3198,7 @@ var domains = {
   "gyft.com":1,
   "pingdom.net":1,
   "googleapis.com":1,
+  "cxpublic.com":1,
   "tomshardware.com":1
 };
 
