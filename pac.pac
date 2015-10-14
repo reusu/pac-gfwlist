@@ -3199,6 +3199,7 @@ var domains = {
   "pingdom.net":1,
   "googleapis.com":1,
   "cxpublic.com":1,
+  "blogspot.tw":1,
   "tomshardware.com":1
 };
 
