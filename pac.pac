@@ -3200,6 +3200,7 @@ var domains = {
   "googleapis.com":1,
   "cxpublic.com":1,
   "blogspot.tw":1,
+  "fbcdn.net":1,
   "tomshardware.com":1
 };
 
