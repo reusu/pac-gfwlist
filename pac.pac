@@ -3202,6 +3202,7 @@ var domains = {
   "blogspot.tw":1,
   "fbcdn.net":1,
   "mediaite.com":1,
+  "e.w3p.la":1,
   "tomshardware.com":1
 };
 
