@@ -3203,6 +3203,8 @@ var domains = {
   "fbcdn.net":1,
   "mediaite.com":1,
   "e.w3p.la":1,
+  "kevinpelgrims.com":1,
+  "sundoginteractive.com":1,
   "tomshardware.com":1
 };
 
