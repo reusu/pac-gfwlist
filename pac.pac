@@ -3205,6 +3205,14 @@ var domains = {
   "e.w3p.la":1,
   "kevinpelgrims.com":1,
   "sundoginteractive.com":1,
+  "cex.io":1,
+  "rt.com":1,
+   "rambler.ru":1,
+  "statcounter.com":1,
+  "tru.am":1,
+  "tns-counter.ru":1,
+  "hypercomments.com":1,
+  "yandex.ru":1,
   "tomshardware.com":1
 };
 
