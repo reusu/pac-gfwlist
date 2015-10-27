@@ -1903,6 +1903,7 @@ var domains = {
   "porntube.com": 1, 
   "tunein.com": 1, 
   "uwants.com": 1, 
+  "t66y.com"
   "gotw.ca": 1, 
   "tumutanzi.com": 1, 
   "opera-mini.net": 1, 
@@ -3213,6 +3214,7 @@ var domains = {
   "tns-counter.ru":1,
   "hypercomments.com":1,
   "yandex.ru":1,
+  "imageab.com":1,
   "tomshardware.com":1
 };
 
