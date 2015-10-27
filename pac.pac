@@ -3120,6 +3120,7 @@ var domains = {
   "maxcdn.com":1, 
   "softpedia.com":1,
   "economist.com":1,
+  "static-economist.com":1,
   "ebaystatic.com":1,
   "ebay.com":1,
   "mxptint.net":1,
@@ -3215,6 +3216,10 @@ var domains = {
   "hypercomments.com":1,
   "yandex.ru":1,
   "imageab.com":1,
+  "mbww.com":1,
+  "mxptint.net":1,
+  "cdnetworks.net":1,
+  "quantserve.com":1,
   "tomshardware.com":1
 };
 
