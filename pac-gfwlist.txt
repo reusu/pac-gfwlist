@@ -3087,6 +3087,7 @@ var domains = {
   "doubleclick.net": 1,
   "codota.com": 1,
   "akamai.net": 1,
+  "xda-developers.com": 1,
   "akamaihd.net": 1,
   "tutorialspoint.com": 1,
   "barchart.com": 1,
