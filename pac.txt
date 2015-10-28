@@ -3089,6 +3089,7 @@ var domains = {
   "akamai.net": 1,
   "tutorialspoint.com": 1,
   "barchart.com": 1,
+  "python.org": 1,
   "1-apple.com.tw": 1
 };
 
