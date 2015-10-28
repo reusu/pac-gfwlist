@@ -4,6 +4,10 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
+  "crwdcntrl.net": 1,
+  "go-mpulse.net": 1,
+  "adnxs.com": 1,
+  "mpstat.us": 1,
   "4shared.com": 1, 
   "segment.io": 1,
   "cloudfront.net": 1,
