@@ -758,7 +758,7 @@ var domains = {
   "dotsub.com": 1, 
   "putty.org": 1, 
   "aircrack-ng.org": 1, 
-  "mathiew-badimon.com": 1, 
+  "mathiew-badimon.com": 1,
   "cdninstagram.com": 1, 
   "rockmelt.com": 1, 
   "martsangkagyuofficial.org": 1, 
