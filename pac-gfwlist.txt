@@ -9,6 +9,7 @@ var domains = {
   "cloudfront.net": 1,
   "gimpshop.com": 1,     
   "kyonli.com": 1,
+  "buzzfeed.com": 1,
   "bitcointalk.org": 1, 
   "dogfartnetwork.com": 1, 
   "transparency.org": 1, 
