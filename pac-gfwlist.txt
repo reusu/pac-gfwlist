@@ -3104,6 +3104,7 @@ var domains = {
   "tutorialspoint.com": 1,
   "barchart.com": 1,
   "python.org": 1,
+  "quoracdn.net": 1,
   "1-apple.com.tw": 1
 };
 
