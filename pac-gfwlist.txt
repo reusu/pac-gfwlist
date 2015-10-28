@@ -5,6 +5,8 @@ var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
   "4shared.com": 1, 
+  "segment.io": 1,
+  "cloudfront.net": 1,
   "gimpshop.com": 1, 
   "bitcointalk.org": 1, 
   "dogfartnetwork.com": 1, 
