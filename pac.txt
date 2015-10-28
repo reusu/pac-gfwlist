@@ -806,6 +806,7 @@ var domains = {
   "hidemyass.com": 1, 
   "myparagliding.com": 1, 
   "pandora.com": 1, 
+  "autoproxy.org": 1,
   "x365x.com": 1, 
   "getcloudapp.com": 1, 
   "aolnews.com": 1, 
