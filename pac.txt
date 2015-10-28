@@ -3039,7 +3039,7 @@ var domains = {
   "173ng.com": 1, 
   "minghui.org": 1, 
   "isaacmao.com": 1, 
-  "githubapp.com":1,
+  "githubapp.com": 1,
   "perfectvpn.net": 1, 
   "freeman2.com": 1, 
   "sinonet.ca": 1, 
@@ -3063,11 +3063,11 @@ var domains = {
   "economist.com": 1,
   "dowjones.com":1,
   "economist.com":1,
-  "static-economist.com":1,
-  "brightcove.com":1,
-  "tiqcdn.com":1,
+  "static-economist.com": 1,
+  "brightcove.com": 1,
+  "tiqcdn.com": 1,
   "doubleclick.net":1,
-  "codota.com":1,
+  "codota.com": 1,
   "1-apple.com.tw": 1
 };
 
