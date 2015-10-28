@@ -3031,6 +3031,7 @@ var domains = {
   "reddit.com": 1,
   "redditmedia.com":1,
   "redditstatic.com":1,
+  "adzerk.net":1,
   "book.com.tw": 1, 
   "dwheeler.com": 1, 
   "heeact.edu.tw": 1, 
