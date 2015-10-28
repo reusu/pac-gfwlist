@@ -1678,6 +1678,7 @@ var domains = {
   "mitbbs.com": 1, 
   "trendsmap.com": 1, 
   "edx.org": 1,
+  "optimizely.com": 1,
   "upholdjustice.org": 1, 
   "kakao.com": 1, 
   "wiredbytes.com": 1, 
