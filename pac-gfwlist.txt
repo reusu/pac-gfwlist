@@ -3106,6 +3106,9 @@ var domains = {
   "barchart.com": 1,
   "python.org": 1,
   "quoracdn.net": 1,
+  "skimresources.com": 1,
+  "scorecardresearch.com": 1,
+  "amazonwebapps.com": 1,
   "1-apple.com.tw": 1
 };
 
