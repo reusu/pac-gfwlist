@@ -10,6 +10,7 @@ var domains = {
   "go-mpulse.net": 1,
   "adnxs.com": 1,
   "mpstat.us": 1,
+  "javmoo.info": 1,
   "4shared.com": 1, 
   "segment.io": 1,
   "cloudfront.net": 1,
