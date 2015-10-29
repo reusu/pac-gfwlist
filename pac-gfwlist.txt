@@ -5,6 +5,7 @@ var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
   "quora.com": 1,
+  "zqtk.net": 1,
   "intercomcdn.com": 1,
   "crwdcntrl.net": 1,
   "go-mpulse.net": 1,
