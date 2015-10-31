@@ -6,6 +6,7 @@ var proxy = "SOCKS5 127.0.0.1:1080;";
 var domains = {
   "quora.com": 1,
   "zqtk.net": 1,
+  "coinbase.com": 1,
   "cloudflare.com": 1,
   "facebook.net": 1,
    "sqlite.org": 1,
