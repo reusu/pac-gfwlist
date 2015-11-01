@@ -8,6 +8,7 @@ var domains = {
   "zqtk.net": 1,
   "coinbase.com": 1,
   "amazon.com": 1,
+  "amazonaws.com": 1,
   "ssl-images-amazon.com": 1,
   "images-amazon.com": 1,
   "blockchain.info": 1,
