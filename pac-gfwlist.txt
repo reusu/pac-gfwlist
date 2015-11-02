@@ -7,6 +7,8 @@ var domains = {
   "quora.com": 1,
   "zqtk.net": 1,
   "coinbase.com": 1,
+  "sstatic.net": 1,
+  "gravatar.com": 1,
   "amazon.com": 1,
   "amazonaws.com": 1,
   "ssl-images-amazon.com": 1,
