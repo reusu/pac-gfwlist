@@ -11,6 +11,7 @@ var domains = {
   "tradingview.com": 1,
   "zqtk.net": 1,
   "xda-developers.com": 1,
+  "dropboxstatic.com": 1,
   "xda-cdn.com": 1,
   "coinbase.com": 1,
   "sstatic.net": 1,
