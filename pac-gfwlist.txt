@@ -5,6 +5,14 @@ var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
   "quora.com": 1,
+  "dowjoneson.com": 1,
+  "chartbeat.net": 1,
+  "bluekai.com": 1,
+  "cxpublic.com": 1,
+  "media.net": 1,
+  "imrworldwide.com": 1,
+  "tellapart.com": 1,
+  "quantserve.com": 1,
   "gannett-cdn.com": 1,
   "usatoday.net": 1,
   "xamarin.com": 1,
