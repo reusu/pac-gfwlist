@@ -8,6 +8,7 @@ var domains = {
   "dowjoneson.com": 1,
   "chartbeat.net": 1,
   "bluekai.com": 1,
+  "cxense.com":1,  
   "cxpublic.com": 1,
   "media.net": 1,
   "imrworldwide.com": 1,
