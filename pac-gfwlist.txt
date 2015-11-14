@@ -9,6 +9,7 @@ var domains = {
   "kinja-img.com":1,
   "kinja.com":1,
   "dowjoneson.com": 1,
+  "berkeley.edu":1,
   "typekit.net":1,
   "getpocket.com":1,
   "bloom.bg":1,  
