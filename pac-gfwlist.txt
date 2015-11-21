@@ -5,6 +5,13 @@ var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
   "quora.com": 1,
+  "thumbsnap.com":1,
+  "bzpics.com":1,
+  "vivthomas.com":1,
+  "realitykings.com":1,
+  "ddfcash.com":1,
+  "phncdn.com":1,
+  "mxn.com":1,
   "norvig.com":1,
   "kinja-img.com":1,
   "kinja.com":1,
