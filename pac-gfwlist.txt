@@ -2717,7 +2717,6 @@ var domains = {
   "ifanr.com": 1, 
   "urlborg.com": 1, 
   "minzhuzhongguo.org": 1, 
-  "tibet.a.se": 1, 
   "fb.me": 1, 
   "icij.org": 1, 
   "twindexx.com": 1, 
