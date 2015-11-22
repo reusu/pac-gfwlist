@@ -1437,7 +1437,7 @@ var domains = {
   "mog.com": 1, 
   "fsurf.com": 1, 
   "fredwilson.vc": 1, 
-  "zacebook.com": 1, 
+  "github.io": 1, 
   "hechaji.com": 1, 
   "x-berry.com": 1, 
   "tkforum.tk": 1, 
