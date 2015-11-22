@@ -117,7 +117,6 @@ var domains = {
   "robtex.com": 1, 
   "thelifeyoucansave.com": 1, 
   "ugo.com": 1, 
-  "looktoronto.com": 1, 
   "army.mil": 1, 
   "amoiist.com": 1, 
   "uderzo.it": 1, 
