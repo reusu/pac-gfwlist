@@ -10,6 +10,7 @@ var domains = {
   "fastly.net":1,
   "wistia.com":1,
   "vivthomas.com":1,
+  "jetbrains.com":1,
   "speakerdeck.com":1,
   "realitykings.com":1,
   "gradle.org":1,
