@@ -13,6 +13,7 @@ var domains = {
   "vivthomas.com":1,
   "jetbrains.com":1,
   "speakerdeck.com":1,
+  "disqus.com":1,
   "realitykings.com":1,
   "gradle.org":1,
   "ddfcash.com":1,
