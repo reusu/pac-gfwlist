@@ -35,6 +35,7 @@ var domains = {
   "cxense.com":1,  
   "cxpublic.com": 1,
   "openuserjs.org":1,
+  "medium.com":1,
   "media.net": 1,
   "imrworldwide.com": 1,
   "tellapart.com": 1,
