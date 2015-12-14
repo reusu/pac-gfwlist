@@ -7,6 +7,7 @@ var domains = {
   "quora.com": 1,
   "thumbsnap.com":1,
   "bzpics.com":1,
+  "crackedcdn.com":1,
   "econ.st":1,
   "fastly.net":1,
   "wistia.com":1,
