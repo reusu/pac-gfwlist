@@ -8,6 +8,7 @@ var domains = {
   "thumbsnap.com":1,
   "bzpics.com":1,
   "crackedcdn.com":1,
+  "cracked.com":1,
   "abcbullion.com.au":1,
  "statcounter.com":1,
   "econ.st":1,
