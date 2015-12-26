@@ -12,6 +12,7 @@ var domains = {
  "kissanime.to":1,
   "abcbullion.com.au":1,
  "statcounter.com":1,
+ "txmblr.com":1,
   "econ.st":1,
   "fastly.net":1,
   "wistia.com":1,
