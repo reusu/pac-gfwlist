@@ -1,4 +1,5 @@
 # pac-gfwlist
-**A still maintained PAC list for shadowsocks and SwitchyOmega**
+**适用于Chrome插件SwitchyOmega，不能替换SS的本地PAC，持续更新中**
+
 
 
