@@ -10,6 +10,7 @@ var domains = {
   "crackedcdn.com":1,
   "cracked.com":1,
  "kissanime.to":1,
+ "tuo8.co":1,
  "ycombinator.com":1,
   "abcbullion.com.au":1,
  "statcounter.com":1,
