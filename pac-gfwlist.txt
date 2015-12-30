@@ -9,6 +9,7 @@ var domains = {
   "bzpics.com":1,
   "crackedcdn.com":1,
   "cracked.com":1,
+  "blogspot.jp":1,
  "kissanime.to":1,
  "tuo8.co":1,
  "ycombinator.com":1,
