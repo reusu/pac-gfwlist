@@ -17,6 +17,7 @@ var domains = {
  "statcounter.com":1,
  "ggpht.com":1,
  "gitter.im":1,
+ "4chan":1,
  "txmblr.com":1,
   "econ.st":1,
   "fastly.net":1,
