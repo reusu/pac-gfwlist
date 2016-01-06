@@ -12,6 +12,7 @@ var domains = {
  "namecheap.com":1,
   "blogspot.jp":1,
  "kissanime.to":1,
+ "wsj.com":1,
  "tuo8.co":1,
  "conoha.jp":1,
  "ycombinator.com":1,
