@@ -13,6 +13,8 @@ var domains = {
  "blogspot.jp":1,
  "kissanime.to":1,
  "wsj.com":1,
+ "hostus.com":1,
+ "linode.com":1,
  "digitalocean.com":1,
  "vultr.com":1,
  "z.com":1,
