@@ -11,6 +11,7 @@ var domains = {
  "cracked.com":1,
  "namecheap.com":1,
  "blogspot.jp":1,
+ "stocktwits.com":1,
  "kissanime.to":1,
  "wsj.com":1,
  "hostus.com":1,
