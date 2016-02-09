@@ -106,6 +106,7 @@ var domains = {
    "sqlite.org": 1,
   "intercomcdn.com": 1,
   "crwdcntrl.net": 1,
+  "avmoo.net":1,
   "go-mpulse.net": 1,
   "adnxs.com": 1,
   "mpstat.us": 1,
