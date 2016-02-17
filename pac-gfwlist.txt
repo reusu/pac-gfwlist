@@ -14,6 +14,7 @@ var domains = {
  "bzpics.com":1,
  "scihub.org":1,
  "crackedcdn.com":1,
+ "konachan.com":1,
  "cracked.com":1,
  "namecheap.com":1,
  "blogspot.jp":1,
