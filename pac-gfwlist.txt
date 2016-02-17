@@ -12,6 +12,7 @@ var domains = {
  "rlcdn.com":1,
  "thumbsnap.com":1,
  "bzpics.com":1,
+ "scihub.org":1,
  "crackedcdn.com":1,
  "cracked.com":1,
  "namecheap.com":1,
