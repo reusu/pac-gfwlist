@@ -405,7 +405,7 @@ var domains = {
   "freedomhouse.org": 1, 
   "footwiball.com": 1, 
   "tinypaste.com": 1, 
-  "shixiao.org": 1, 
+  "bbc.com": 1, 
   "ecstart.com": 1, 
   "googleartproject.com": 1, 
   "desc.se": 1, 
