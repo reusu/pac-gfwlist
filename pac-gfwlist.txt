@@ -9,7 +9,6 @@ var domains = {
  "petametrics.com":1,
  "fastly.net":1,
  "krxd.net":1,
- "avxsl.com";1,
  "rlcdn.com":1,
  "thumbsnap.com":1,
  "bzpics.com":1,
