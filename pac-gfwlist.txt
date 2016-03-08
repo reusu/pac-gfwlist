@@ -8,6 +8,7 @@ var domains = {
  "iplocation.net":1,
  "petametrics.com":1,
  "fastly.net":1,
+ "avmoo.com":1,
  "krxd.net":1,
  "rlcdn.com":1,
  "thumbsnap.com":1,
