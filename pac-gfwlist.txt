@@ -6,6 +6,7 @@ var proxy = "SOCKS5 127.0.0.1:1080;";
 var domains = {
  "quora.com": 1,
  "iplocation.net":1,
+ "btku.org":1,
  "petametrics.com":1,
  "fastly.net":1,
  "avmoo.com":1,
