@@ -36,7 +36,6 @@ var domains = {
  "vultr.com":1,
  "z.com":1,
  "tuo8.co":1,
- "conoha.jp":1,
  "ycombinator.com":1,
  "abcbullion.com.au":1,
  "statcounter.com":1,
