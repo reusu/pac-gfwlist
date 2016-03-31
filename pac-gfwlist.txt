@@ -12,6 +12,7 @@ var domains = {
  "avmoo.com":1,
  "lowendtalk.com":1,
  "ssw.live.com":1,
+ "angularjs.org":1,
  "slack.com":1,
  "netcdn.space":1,
  "alexa.com":1,
