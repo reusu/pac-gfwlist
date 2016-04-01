@@ -249,6 +249,7 @@ var domains = {
   "sokamonline.com": 1, 
   "im.tv": 1, 
   "hulu.com": 1, 
+  "hostloc.com":1,
   "twiyia.com": 1, 
   "sethwklein.net": 1, 
   "dupola.com": 1, 
