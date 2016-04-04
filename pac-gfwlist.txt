@@ -11,6 +11,7 @@ var domains = {
  "fastly.net":1,
  "avmoo.com":1,
  "lowendtalk.com":1,
+ "keepass.info":1,
  "gfw.press":1,
  "ssw.live.com":1,
  "icij.org":1,
