@@ -16,6 +16,7 @@ var domains = {
  "icij.org":1,
  "angularjs.org":1,
  "slack.com":1,
+ "protonmail.com":1,
  "netcdn.space":1,
  "alexa.com":1,
  "krxd.net":1,
