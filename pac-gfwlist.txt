@@ -61,6 +61,7 @@ var domains = {
   "nic.google":1,
   "registry.google":1,
   "phncdn.com":1,
+  "packagecontrol.io":1,
   "mxn.com":1,
   "norvig.com":1,
   "kinja-img.com":1,
