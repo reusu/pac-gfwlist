@@ -104,6 +104,7 @@ var domains = {
   "taboola.com": 1,
   "reuters.tv": 1,
   "megaupload.com": 1,
+  "movietvslash.com":1,
   "mobile01.com": 1,
   "openwrt.org": 1,
   "pinboard.in": 1,
