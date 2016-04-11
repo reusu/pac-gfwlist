@@ -15,6 +15,7 @@ var domains = {
  "keepass.info":1,
  "gfw.press":1,
  "washingtonpost.com":1,
+ "pocketcasts.com":1,
  "ssw.live.com":1,
  "icij.org":1,
  "angularjs.org":1,
