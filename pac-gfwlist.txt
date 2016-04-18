@@ -12,6 +12,7 @@ var domains = {
  "avmoo.com":1,
  "lowendtalk.com":1,
  "gamesbrief.com":1,
+ "zeroexpose.com":1,
  "medium.com":1,
  "keepass.info":1,
  "gfw.press":1,
