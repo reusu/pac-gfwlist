@@ -348,7 +348,7 @@ var domains = {
   "dajiyuan.com": 1, 
   "laqingdan.net": 1, 
   "youmaker.com": 1, 
-  "focustaiwan.tw": 1, 
+  "fangongheike.com":1,
   "anonymizer.com": 1, 
   "cnavista.com.tw": 1, 
   "emuparadise.me": 1, 
