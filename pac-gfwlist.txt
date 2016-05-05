@@ -8,6 +8,7 @@ var domains = {
  "apk-dl.com":1,
  "apkpure.com":1,
  "iplocation.net":1,
+ "cnbc.com":1,
  "bangumi.moe":1,
  "btku.org":1,
  "petametrics.com":1,
