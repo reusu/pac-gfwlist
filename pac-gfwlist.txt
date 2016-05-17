@@ -15,6 +15,7 @@ var domains = {
  "fastly.net":1,
  "avmoo.com":1,
  "lowendtalk.com":1,
+ "nextmag.com.tw":1,
  "gamesbrief.com":1,
  "zeroexpose.com":1,
  "medium.com":1,
