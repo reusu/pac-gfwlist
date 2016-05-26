@@ -11,6 +11,7 @@ var domains = {
  "cnbc.com":1,
  "telegram.me":1,
  "telegram.org":1,
+ "pixiv.net":1,
  "kat.cr":1,
  "deepwebdot.com":1,
  "bangumi.moe":1,
