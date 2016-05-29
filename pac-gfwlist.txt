@@ -22,6 +22,7 @@ var domains = {
  "lowendtalk.com":1,
  "nextmag.com.tw":1,
  "gamesbrief.com":1,
+ "google.com.tw":1,
  "zeroexpose.com":1,
  "medium.com":1,
  "keepass.info":1,
