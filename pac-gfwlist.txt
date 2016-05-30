@@ -1128,7 +1128,7 @@ var rules = [
   "||cusu.hk",
   ".cw.com.tw",
   "|http://forum.cyberctm.com",
-  "cyberghostvpn.com",
+  ".hostloc.com",
   "||cyberghostvpn.com",
   "||cynscribe.com",
   "cytode.us",
