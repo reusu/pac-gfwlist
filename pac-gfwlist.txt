@@ -4742,7 +4742,7 @@ var rules = [
   "yangjianli.com",
   ".yasni.co.uk",
   "||yasni.co.uk",
-  "yandex.com",
+  ".yandex.com",
   "||yandex.com",
   "||yasukuni.or.jp",
   ".ydy.com",
