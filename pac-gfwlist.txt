@@ -1595,6 +1595,7 @@ var rules = [
   "fqok.org",
   "||fqrouter.com",
   "||franklc.com",
+  "||fullstory.com",
   ".freakshare.com",
   "|http://freakshare.com",
   "||free4u.com.ar",
