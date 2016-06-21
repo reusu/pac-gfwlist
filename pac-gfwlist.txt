@@ -181,6 +181,7 @@ var rules = [
   "||digisfera.com",
   "||domains.google",
   "||feedburner.com",
+  "||feedly.com",
   "||g.co",
   "||get.how",
   "||getmdl.io",
