@@ -1521,7 +1521,6 @@ var rules = [
   "||fc2cn.com",
   "fc2blog.net",
   "feedly.com",
-  ".feedly.com",
   "|http://uygur.fc2web.com/",
   "video.fdbox.com",
   ".fdc89.jp",
