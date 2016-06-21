@@ -764,7 +764,7 @@ var rules = [
   "||bullog.org",
   ".bullogger.com",
   "||bullogger.com",
-  ".businessinsider.com"
+  ".businessinsider.com",
   "||businessinsider.com",
   "|http://static*.businessinsider.com/",
   ".businessweek.com",
