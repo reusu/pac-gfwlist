@@ -1817,6 +1817,7 @@ var rules = [
   "||girlbanker.com",
   "|http://softwaredownload.gitbooks.io",
   ".github.com",
+  "||github.com",
   "|https://gist.github.com",
   "|http://cthlo.github.io/hktv",
   "|http://onionhacker.github.io",
