@@ -1332,6 +1332,8 @@ var rules = [
   "ebookee.com",
   "ecministry.net",
   ".economist.com",
+  "||economist.com",
+  "||static-economist.com",
   "bbs.ecstart.com",
   "||edgecastcdn.net",
   "/twimg\\.edgesuite\\.net\\/\\/?appledaily/",
