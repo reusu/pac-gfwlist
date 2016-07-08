@@ -2605,6 +2605,8 @@ var rules = [
   "||magic-net.info",
   "mahabodhi.org",
   "my.mail.ru",
+  "mail.ru",
+  "||mail.ru",
   ".maiplus.com",
   "|http://maiplus.com",
   "manicur4ik.ru",
