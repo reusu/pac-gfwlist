@@ -3642,6 +3642,8 @@ var rules = [
   "||soundofhope.org",
   "||soupofmedia.com",
   "|http://sourceforge.net/p*/shadowsocksgui/",
+  ".sourceforge.net",
+  "||sourceforge.net",
   ".sourcewadio.com",
   "southnews.com.tw",
   "sowers.org.hk",
