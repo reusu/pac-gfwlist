@@ -4428,7 +4428,6 @@ var rules = [
   "||www.vpncup.com",
   "vpnbook.com",
   ".vpncoupons.com",
-  "|http://vpncoupons.com",,
   "||vpngate.jp",
   ".vpngate.net",
   "||vpngate.net",
