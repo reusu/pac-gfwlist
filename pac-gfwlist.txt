@@ -2608,6 +2608,7 @@ var rules = [
   "mahabodhi.org",
   "my.mail.ru",
   "mail.ru",
+  ".mail.ru",
   "||mail.ru",
   ".maiplus.com",
   "|http://maiplus.com",
