@@ -129,6 +129,7 @@ var rules = [
   "||xn--p8j9a0d9c9a.xn--q9jyb4c",
   ".lsxszzg.com",
   ".avmo.pw",
+  "avmo.pw",
   ".avmoo.com",
   "|http://avmoo.com",
   ".avmoo.net",
