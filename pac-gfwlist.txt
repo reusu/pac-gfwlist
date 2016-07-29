@@ -1866,7 +1866,7 @@ var rules = [
   "|http://gongwt.com",
   "blog.goo.ne.jp/duck-tail_2009",
   ".goodreads.com",
-  ".gravatar.com",
+  "||gravatar.com",
   "||goodreads.com",
   ".goodreaders.com",
   "||goodreaders.com",
