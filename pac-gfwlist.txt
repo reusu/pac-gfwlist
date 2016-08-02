@@ -11,6 +11,7 @@ var rules = [
   "||altrec.com",
   "||asianspiss.com",
   "||athenaeizou.com",
+  "||amazonaws.com",
   "||alternativeto.net",
   "||azubu.tv",
   "||barracuda.com",
